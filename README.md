@@ -25,4 +25,4 @@ El despliegue del sitio web estático en AWS se realiza utilizando los siguiente
 
 - **/index.html**: Contiene el contenido principal del sitio web.
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/daniel9511/AWS_Web_Static/main/Proyecto%20AWS%20Web%20Estatica.jpg))
+![alt text](https://github.com/daniel9511/AWS_Web_Static/blob/main/Proyecto%20AWS%20Web%20Estatica.jpg)
