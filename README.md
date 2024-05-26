@@ -24,3 +24,5 @@ El despliegue del sitio web estático en AWS se realiza utilizando los siguiente
 - **Amazon S3 Bucket**: Se utiliza para almacenar los archivos estáticos del sitio web, como HTML, CSS, JavaScript e imágenes. El bucket de S3 se configura para alojar el contenido del sitio web y se integra con CloudFront para la distribución global del contenido.
 
 - **/index.html**: Contiene el contenido principal del sitio web.
+
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/daniel9511/AWS_Web_Static/main/Proyecto%20AWS%20Web%20Estatica.jpg))
